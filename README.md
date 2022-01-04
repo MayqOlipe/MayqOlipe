@@ -1,6 +1,6 @@
 <img align="left" alt="Mayq-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/vEdREk2.jpg">
 
-### Olá, Sou Mayquel de Oliveira, um desenvolvedor em desenvolvimento 👣
+### Olá, sou Mayquel de Oliveira, um desenvolvedor em desenvolvimento 👣
 
 - 🌱 Estudando Desenvolvimento Web Full Stack
 - 📫 Contate-me no email: mayq.olipe@gmail.com
